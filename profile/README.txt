@@ -1,0 +1,1 @@
+Here you should create the Firefox profile I spoke about in ../README.txt
