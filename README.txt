@@ -4,7 +4,6 @@
 
 **************************************** What about the Bot ******************************************
 
-This BotNet has been created by Thomas LeBasque.
 It goes on Facebook to get public information about a known person (just the name).
 After getting it the bot uses a TextToSpeach to read it.
 To install the bot, please read the following...
