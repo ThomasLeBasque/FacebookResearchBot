@@ -14,29 +14,28 @@ Hope you will enjoy !!
 
 *********************************** How to install the Bot *******************************************
 
-*************
 
-*********************************
+
 Step #1: install python*********************************
 
 Go to this website. Be sure you install the version 2.7
 https://www.python.org/downloads/
 
-*************
 
-*********************************
+
 Step #2: install dependencies***************************
+
 Go to the install path (ex: E:\Pograms\Python\Python2.7). 
 Open a command prompt here (Shift + right click, Open Powershell). 
 Then run :
 $ ./pip.exe install selenium
 $ ./pip.exe install pillow
 $ ./pip.exe install unidecode
-***
-*************
 
-*********************************
+
+
 Step #3: install driver*********************************
+
 Look if there is geckodriver.exe in the file path.
 If yes, go to Step#4
 
@@ -44,10 +43,10 @@ If not, follow the instructions bellow:
 Go to on this website and unzip the .zip file into the current path:
 https://github.com/mozilla/geckodriver/releases
 
-*************
 
-*********************************
+
 Step #4: create firefox profile*************************
+
 In the command prompt (not powershell), run :
 $ firefox.exe -ProfileManager
 
@@ -60,10 +59,9 @@ Exit firefox.
 
 
 
-*************
 
-*********************************
- USE THE BOT *******************************************
+
+********************************* USE THE BOT *******************************************
 
 Open the python code. If you have Notepad++ it would be better.
 At the line 17, you will see "put your email here". So write your Facebook connected email.
